@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn nhiều<3',
     reply: 'Yêu thì yêu mà không yêu thì yêu chịu không chịu cũng bắt buộc phải chịu bạn hết lựa chọn <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Hẹn bạn vào ngày 5/7 gần nhất .',
+    messDesc: 'Hẹn bạn vào ngày 5/7 gần nhất rồi nóc nhà đón về rồi chở đi chơi á nhớ đó"nấu gì đó ăn càng tốt"  .',
     btnAccept: 'Okiiiii lun <3',
     
 }
